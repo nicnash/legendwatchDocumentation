@@ -1,0 +1,54 @@
+Styleguide
+
+CHAMPION PORTRAITS
+all have a 4px border the ones on the purpleish background on the left have this border color #312a3a,
+the ones on the blueish background on the right have the border color #272c3b
+
+
+NAVIGATION
+buttons on the left are 64px*59px
+border is 1 px #302634
+
+
+CHAMPION PICKED
+90% opacity #0d0f15 above the portrait
+graphic of the CHECK is in the folder
+
+
+LEFT BAR
+BG behind champion portraits on the left is in the folder as a .png
+padding between the champ portraits is 14px (and the padding to the sides of the box too)
+
+
+BOTTOM RIGHT BAR
+BG behind champion portraits on the right is #151a2a
+dividing lines 1px #2a2f3d
+color of the VS is #6e6f76
+color of the unhighlighted text is #797a80
+color of the highlighted player is white
+color of the dividing line at the top is #4f525e
+
+
+LOGO
+bg behind the logo 15% opacity black
+
+
+SCROLLBARS
+scrollbar is 9px wide 20% opacity black, the graphic for the little scroll button is in the folder.
+
+
+DIVIDING LINES
+all 1 px #302a37 except the ones on the bottom right
+
+
+TIMELINE
+lines are 1px width #5c5761
+so is the font color #5c5761
+font size is 14pt
+font family for the lower numbers open sans light 
+font family for the numbers on the left and right open sans regular
+
+
+ABOVE THE VIDEO
+names of the players in white, VERSUS in #5c5761
+font family Raleway Bold 24pt
